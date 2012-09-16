@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-#gem 'rails', '3.2.1' #original
-gem 'rails' ,'1.0.0' # from book
+gem 'rails', '3.2.1' #original
+#gem 'rails' ,'1.0.0' # from book
 gem 'sqlite3-ruby', '1.2.5', :require => 'sqlite3' #from book per book try 131 if dont work
 
 # Bundle edge Rails instead:
